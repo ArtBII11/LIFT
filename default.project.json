@@ -2,7 +2,6 @@
   "name": "LIFT",
   "tree": {
     "$className": "DataModel",
-    "$ignoreUnknownInstances": true,
 
     "ReplicatedStorage": {
       "Shared": {
@@ -18,9 +17,8 @@
 
     "StarterPlayer": {
       "StarterPlayerScripts": {
-          "Client": {
-            "$path": "src/client"
-          } 
+        "Client": {
+          "$path": "src/client"
         }
       }
     },
@@ -71,3 +69,4 @@
       }
     }
   }
+}
