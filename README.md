@@ -17,3 +17,5 @@ rojo serve
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
 
 Тут будет проект The LIFT , который будет в рб. Сейчас я настраиваю GIT.
+
+Проверка 1фывйцуй
