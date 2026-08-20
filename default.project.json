@@ -2,6 +2,7 @@
   "name": "LIFT",
   "tree": {
     "$className": "DataModel",
+    "$ignoreUnknownInstances": true,
 
     "ReplicatedStorage": {
       "Shared": {
